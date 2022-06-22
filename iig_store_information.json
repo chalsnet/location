@@ -1,0 +1,238 @@
+{
+   "iig_store_info":[
+      {
+         "store_code":"HQ",
+         "store_address":"13247 Harbor Blvd.",
+         "store_city":"Garden Grove",
+         "store_zip":"92843",
+         "store_phone":"714-589-2145",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"OC01",
+         "store_address":"13191 Harbor Blvd.",
+         "store_city":"Garden Grove",
+         "store_zip":"92843",
+         "store_phone":"714-534-7600",
+         "long": "33.771353",
+         "lat": "-117.921002"
+      },
+      {
+         "store_code":"OC05",
+         "store_address":"1216 E. McFadden Ave.",
+         "store_city":"Santa Ana",
+         "store_zip":"92705",
+         "store_phone":"714-202-2895",
+         "long": "33.732922",
+         "lat": "-117.855540"
+      },
+      {
+         "store_code":"OC07",
+         "store_address":"1130 S. Bristol St.",
+         "store_city":"Santa Ana",
+         "store_zip":"92704",
+         "store_phone":"714-800-3738",
+         "long": "33.733272",
+         "lat": "-117.885834"
+      },
+      {
+         "store_code":"OC08",
+         "store_address":"1525 W. First St, Unit B",
+         "store_city":"Santa Ana",
+         "store_zip":"92703",
+         "store_phone":"657-235-9909",
+         "long": "33.3041719",
+         "lat": "-111.9641728"
+      },
+      {
+         "store_code":"OC11",
+         "store_address":"2547 W. McFadden St, Unit B.",
+         "store_city":"Santa Ana",
+         "store_zip":"92704",
+         "store_phone":"657-269-5997",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"LA03",
+         "store_address":"12140 E. Carson St, Suite B1.",
+         "store_city":"Hawaiian Gardens",
+         "store_zip":"90716",
+         "store_phone":"123-456-7890",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"RC01",
+         "store_address":"25021 Madison Ave., Suite 102.",
+         "store_city":"Murrieta",
+         "store_zip":"92562",
+         "store_phone":"951-200-4885",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"RC03",
+         "store_address":"30141H Antelope Rd. Ste H",
+         "store_city":"Menifee",
+         "store_zip":"92584",
+         "store_phone":"951-200-4855",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"RC05",
+         "store_address":"40335 Winchester Rd., Ste H",
+         "store_city":"Temecula",
+         "store_zip":"92591",
+         "store_phone":"951-595-4099",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB01",
+         "store_address":"9719 Sierra Ave.",
+         "store_city":"Fontana",
+         "store_zip":"92335",
+         "store_phone":"909-356-0700",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB03",
+         "store_address":"283 W. Foothill Blvd., Ste B",
+         "store_city":"Rialto",
+         "store_zip":"92376",
+         "store_phone":"909-874-2400",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB04",
+         "store_address":"727 W Highland Ave",
+         "store_city":"San Bernardino",
+         "store_zip":"92405",
+         "store_phone":"909-361-5959",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB05",
+         "store_address":"625 S Riverside Ave",
+         "store_city":"Rialto",
+         "store_zip":"92376",
+         "store_phone":"909-301-8258",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB06",
+         "store_address":"2252 S Garey Ave",
+         "store_city":"Pomona",
+         "store_zip":"91766",
+         "store_phone":"909-766-3211",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB07",
+         "store_address":"1304 W. Foothill Blvd Ste F",
+         "store_city":"Rialto",
+         "store_zip":"92376",
+         "store_phone":"909-820-0909",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB08",
+         "store_address":"16990 W Foothill Blvd Ste A.",
+         "store_city":"Fontana",
+         "store_zip":"92335",
+         "store_phone":"909-895-3608",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB10",
+         "store_address":"1642 Indian Hill Blvd.",
+         "store_city":"Pomona",
+         "store_zip":"91767",
+         "store_phone":"909-624-3366",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB11",
+         "store_address":"562 W. Holt Blvd., Unit A1.",
+         "store_city":"Ontario",
+         "store_zip":"91762",
+         "store_phone":"909-391-6000",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB12",
+         "store_address":"176 E Baseline Rd.",
+         "store_city":"Rialto",
+         "store_zip":"92376",
+         "store_phone":"909-874-4200",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB14",
+         "store_address":"1136 N Mount Vernon Ave Ste 102.",
+         "store_city":"San Bernardino",
+         "store_zip":"92411",
+         "store_phone":"909-885-6102",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB15",
+         "store_address":"1145 N Mount Vernon Ave Ste B",
+         "store_city":"Colton",
+         "store_zip":"92324",
+         "store_phone":"909-422-0000",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB16",
+         "store_address":"16120 Valley Blvd Suite 3",
+         "store_city":"Fontana",
+         "store_zip":"92335",
+         "store_phone":"909-347-7211",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB17",
+         "store_address":"275 E 9th St  Ste E",
+         "store_city":"San Bernardino",
+         "store_zip":"92410",
+         "store_phone":"909-386-0011",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB18",
+         "store_address":"326 E. Holt Blvd Ste C",
+         "store_city":"Ontario",
+         "store_zip":"91761",
+         "store_phone":"909-460-9500",
+         "long": "",
+         "lat": ""
+      },
+      {
+         "store_code":"SB21",
+         "store_address":"1641 W Holt Ave.",
+         "store_city":"Pomona",
+         "store_zip":"91768",
+         "store_phone":"909-539-0255",
+         "long": "",
+         "lat": ""
+      }
+   ]
+}
